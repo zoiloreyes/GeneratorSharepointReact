@@ -1,0 +1,16 @@
+{
+      "name": "generator-sharepoint-react-component",
+      "version": "1.0.0",
+      "description": "A Yeoman Generator for a sharepoint react componenet",
+      "files": [
+            "generators"
+      ],
+      "keywords": [
+            "yeoman-generator"
+      ],
+      "dependencies": {
+            "yeoman-generator": "^1.1.1"
+      },
+      "author": "Zoilo Reyes",
+      "license": "ISC"
+}
